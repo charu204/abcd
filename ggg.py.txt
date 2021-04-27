@@ -1,2 +1,1 @@
-#git branch1
-branch updatelocal branch update, remote main update
+branch1
